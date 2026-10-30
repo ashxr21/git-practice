@@ -15,6 +15,7 @@ function App(){
         <Card title = "The Godfather"/>
         <Card title = "Pulp Fiction"/>
         <Card title = "Pride and Prejudice"/>
+        <Card title = "There will be Blood"/>
       </div>
     );
 }
